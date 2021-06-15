@@ -1,0 +1,15 @@
+   div {
+    margin-top: 5%; /* Отступ сверху */
+   }
+   table {
+    width: 60%; /* Ширина таблицы */
+    background: white; /* Цвет фона таблицы */
+    color: black; /* Цвет текста */
+    border-spacing: 1px; /* Расстояние между ячейками */
+	margin: auto; /* Выравниваем таблицу по центру окна  */
+   }
+   td, th {
+    background: white; /* Цвет фона ячеек */
+    padding: 5px; /* Поля вокруг текста */
+	text-align: center; /* Выравниваем текст по центру ячейки */
+   }
